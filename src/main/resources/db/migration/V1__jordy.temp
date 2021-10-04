@@ -1,0 +1,11 @@
+create table add1 (
+                        id bigint not null,
+                        name varchar(255),
+                        primary key (id)
+);
+
+create table add2 (
+                        id bigint not null,
+                        name varchar(255),
+                        primary key (id)
+);
