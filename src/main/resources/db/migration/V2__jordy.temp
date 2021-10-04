@@ -9,15 +9,3 @@ create table add4 (
                       name varchar(255),
                       primary key (id)
 );
-
-create table add4 (
-                      id bigint not null,
-                      name varchar(255),
-                      primary key (id)
-);
-
-create table add4 (
-                      id bigint not null,
-                      name varchar(255),
-                      primary key (id)
-);
